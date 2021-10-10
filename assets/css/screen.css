@@ -123,7 +123,7 @@
 }
 
 .gh-card-date {
-    color: var(--ghost-accent-color);
+    color: #FF4500;
 }
 
 .gh-card-meta-wrapper {
@@ -262,7 +262,7 @@
 .gh-subscribe {
     padding: 7.2rem 0;
     margin: 12rem 0 8rem;
-    background-color: var(--ghost-accent-color);
+    background-color: #FF4500;
 }
 
 .gh-subscribe-inner {
@@ -323,14 +323,14 @@
 .gh-subscribe-input-btn {
     font-size: 1.2rem;
     font-weight: 600;
-    color: var(--ghost-accent-color);
+    color: #FF4500;
     text-transform: uppercase;
     letter-spacing: 0.01em;
 }
 
 .gh-subscribe-btn {
     margin-top: 3.2rem;
-    color: var(--ghost-accent-color);
+    color: #FF4500;
     background-color: #fff;
 }
 
@@ -441,7 +441,7 @@
     margin-bottom: 1.2rem;
     font-size: 1.2rem;
     font-weight: 500;
-    color: var(--ghost-accent-color);
+    color: #FF4500;
     text-transform: uppercase;
 }
 
